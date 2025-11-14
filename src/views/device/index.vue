@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <RouterView/>
+<div>设备管理</div>
 </template>
 
 <style scoped>
